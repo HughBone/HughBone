@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HughBone
-- 👀 I’m interested in memes
-- 🌱 I’m currently learning minecraft coding LETS GOOOOO
-- 💞️ I’m looking to collaborate on minecraft coding
-- 📫 How to reach me - I reach you.
+- 👀 I’m interested in Minecraft Fabric mods
+- 📫 How to reach me - hughbone27@gmail.com
 
 <!---
 HughBone/HughBone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
